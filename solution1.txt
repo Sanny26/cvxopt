@@ -1,0 +1,30 @@
+Convex Optimization Assignment I
+------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 1: Solution
+
+X = [ 8.33e-02]
+    [ 6.67e-01]
+
+Other Information given by the solver:
+
+{'status': 'optimal', 's': <5x1 matrix, tc='d'>, 'dual objective': -0.0, 'residual as dual infeasibility certificate': None, 'residual as primal infeasibility certificate': None, 'x': <2x1 matrix, tc='d'>, 'relative gap': None, 'z': <5x1 matrix, tc='d'>, 'primal infeasibility': 0.0, 'iterations': 0, 'gap': 0.0, 'primal objective': 0.0, 'dual slack': 0.0, 'dual infeasibility': 0.0, 'y': <0x1 matrix, tc='d'>, 'primal slack': 0.08333333333333326}
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 2: Solution
+
+X = [ 1.59e-11]
+    [ 2.50e-10]
+
+Other information given by the solver:
+
+{'status': 'optimal', 's': <5x1 matrix, tc='d'>, 'dual objective': -2.532841219589929e-09, 'residual as dual infeasibility certificate': None, 'residual as primal infeasibility certificate': None, 'x': <2x1 matrix, tc='d'>, 'relative gap': None, 'z': <5x1 matrix, tc='d'>, 'primal infeasibility': 1.734357606815213e-16, 'iterations': 6, 'gap': 3.3158635851348936e-09, 'primal objective': 7.83022365717081e-10, 'dual slack': 1.1280084313793751e-10, 'dual infeasibility': 1.9066300230478848e-10, 'y': <0x1 matrix, tc='d'>, 'primal slack': 1.5949171549480597e-11}
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+Problem 3: Solution
+
+X = [ 8.62e-11]
+    [-1.33e-11]
+
+Other information given by the sover:
+
+{'status': 'optimal', 's': <6x1 matrix, tc='d'>, 'dual objective': -7.979623889751286e-10, 'residual as dual infeasibility certificate': None, 'residual as primal infeasibility certificate': None, 'x': <2x1 matrix, tc='d'>, 'relative gap': None, 'z': <6x1 matrix, tc='d'>, 'primal infeasibility': 9.215426956270859e-11, 'iterations': 6, 'gap': 1.5253372598843387e-09, 'primal objective': 1.3252227837072713e-10, 'dual slack': 9.535300940129172e-11, 'dual infeasibility': 1.252064204215212e-10, 'y': <0x1 matrix, tc='d'>, 'primal slack': 1.0567618718524076e-10}
